@@ -54,7 +54,7 @@ console.log(newMenu);
 
 const mainMenuCopy = [...restaurant.mainMenu];
 
-// Join two or more arrays
+// Join two or more arrays together
 
 const menu = [...restaurant.starterMenu, ...restaurant.mainMenu];
 console.log(menu);
@@ -80,8 +80,8 @@ console.log(newRestaurant);
 
 const restaurantCopy = {...restaurant};
 restaurantCopy.name = `Ristorrante Roma`;
-// console.log(restaurantCopy.name);
-// console.log(restaurant.name);
+console.log(restaurantCopy.name);
+console.log(restaurant.name);
 
 
 // restaurant.orderDelivery({
