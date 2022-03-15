@@ -36,7 +36,7 @@ const init = function() {
     player1El.classList.remove(`player--active`);
 };
 
-init();
+
 
 const switchPlayer = function () {
     document.getElementById(`current--${activePlayer}`).textContent = 0;
