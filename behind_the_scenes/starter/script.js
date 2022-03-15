@@ -223,9 +223,3 @@
 // console.log('Before marriage:', jessica2);
 // console.log('After marriage:', jessicaCopy);
 
-const jessica = {
-    firstName: "Jessica",
-    lastName: "Williams",
-    age: 27,
-    family: ["Alice", "Bob"]
-}
