@@ -226,4 +226,5 @@
 const jessica = {
     firstName: "Jessica",
     lastName: "Williams",
+    age: 27,
 }
